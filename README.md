@@ -6,7 +6,9 @@ YMCA a [Decal](http://www.decaldev.com/) utility plugin for use with private Ash
 
 
 
-<code style="color : green">VERIFIED WORKING IN ACE EMULATOR</code> 
+<code style="color : TESTE">VERIFIED WORKING IN ACE EMULATOR</code> 
+
+$${\color{green}VERIFIED WORKING IN ACE EMULATOR}$$
 
 
 
