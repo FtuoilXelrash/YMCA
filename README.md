@@ -10,7 +10,7 @@ YMCA a [Decal](http://www.decaldev.com/) utility plugin for use with private Ash
 
 $${\color{green}VERIFIED WORKING IN ACE EMULATOR}$$
 
-
+#0f0[This is green text]
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YMCA.jpg">
