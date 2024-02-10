@@ -20,6 +20,10 @@ YMCA a [Decal](http://www.decaldev.com/) utility plugin for use with private Ash
 
 
 
+https://github.com/FtuoilXelrash/YMCA/assets/37750686/171a4051-45a5-4707-8757-148d968143f3
+
+
+
 # Installing
 
 * See the [Releases](https://github.com/FtuoilXelrash/YMCA/releases/tag/v2.9.0) for the latest release. 
