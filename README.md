@@ -1,8 +1,16 @@
-
-
 # YMCA
+YMCA Decal Plugin Asheron's Call
 
-YMCA a [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
+
+
+```diff
++VERIFIED WORKING IN ACE EMULATOR
+```
+
+
+
+
+A [Decal](http://www.decaldev.com/) utility plugin for use with private Asheron's Call emulation servers
 
 
 
